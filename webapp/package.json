@@ -43,7 +43,7 @@
     "redux-batched-actions": "0.2.0",
     "redux-persist": "4.8.2",
     "redux-persist-transform-filter": "0.0.15",
-    "superagent": "3.5.2",
+    "superagent": "3.8.1",
     "twemoji": "2.3.0",
     "velocity-animate": "1.5.0",
     "webrtc-adapter": "4.2.0",
